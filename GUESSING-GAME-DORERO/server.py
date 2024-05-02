@@ -3,6 +3,7 @@
 # PALSU Integrative Programming & Technologies 1
 # Guessing Game - Server 
 
+# Import required modules
 import socket
 import random
 import json
